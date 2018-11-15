@@ -1,3 +1,18 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Model.DesignedDiffs.xafml](./CS/Solution1.Module.Win/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/Solution1.Module.Win/Model.DesignedDiffs.xafml))
+* [Updater.cs](./CS/Solution1.Module.Win/Updater.cs) (VB: [Updater.vb](./VB/Solution1.Module.Win/Updater.vb))
+* [WinModule.cs](./CS/Solution1.Module.Win/WinModule.cs) (VB: [WinModule.vb](./VB/Solution1.Module.Win/WinModule.vb))
+* [Model.DesignedDiffs.xafml](./CS/Solution1.Module/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/Solution1.Module/Model.DesignedDiffs.xafml))
+* [Module.cs](./CS/Solution1.Module/Module.cs) (VB: [Module.vb](./VB/Solution1.Module/Module.vb))
+* [MyDomainObject.cs](./CS/Solution1.Module/MyDomainObject.cs) (VB: [MyDomainObject.vb](./VB/Solution1.Module/MyDomainObject.vb))
+* [MyViewController.cs](./CS/Solution1.Module/MyViewController.cs) (VB: [MyViewController.vb](./VB/Solution1.Module/MyViewController.vb))
+* [Updater.cs](./CS/Solution1.Module/Updater.cs) (VB: [Updater.vb](./VB/Solution1.Module/Updater.vb))
+* [Model.xafml](./CS/Solution1.Win/Model.xafml) (VB: [Model.xafml](./VB/Solution1.Win/Model.xafml))
+* [Program.cs](./CS/Solution1.Win/Program.cs) (VB: [Program.vb](./VB/Solution1.Win/Program.vb))
+* [WinApplication.cs](./CS/Solution1.Win/WinApplication.cs) (VB: [WinApplication.vb](./VB/Solution1.Win/WinApplication.vb))
+<!-- default file list end -->
 # How to change a column order in a list view after a user clears grouping.
 
 
